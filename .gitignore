@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Coverage
+coverage/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+logs/
+
+# Jest cache
+.jest-cache/
+
+# IDE
+.vscode/
+.idea/
+*.swp
